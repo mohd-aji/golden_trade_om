@@ -1,0 +1,104 @@
+@media (max-width: 1441px) {
+    .mobToggle {
+        display: none;
+    }
+}
+
+@media (max-width: 1025px) {
+
+    .solu-img img {
+        width: 100%;
+    }
+
+    .contact-box {
+        padding: 40px 15px !important;
+    }
+}
+
+@media (max-width: 769px) {
+    .menu-icon {
+        display: flex;
+        justify-content: end;
+
+    }
+
+    .hero {
+        height: 600px;
+
+    }
+
+    h1 {
+        font-size: 32px !important;
+    }
+
+    h2 {
+        font-size: 30px !important;
+    }
+
+    .hero-text {
+        padding: 50px;
+    }
+
+    .hero {
+        padding: 50px;
+    }
+
+    .abt-img {
+        display: none;
+    }
+
+    .nav-items {
+        display: none;
+    }
+
+    .srv-cnt {
+        height: 100%;
+        width: 60%;
+        margin: auto;
+
+    }
+
+    .contact-box-l {
+        width: 50%;
+        margin: auto;
+    }
+
+    .ftr {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+}
+
+@media (max-width: 426px) {
+    .contact-box-l {
+        width: 100%;
+
+    }
+
+    .srv-cnt {
+        width: 100%;
+
+    }
+
+    .srv-page {
+        height: 250px;
+    }
+
+    .about-page {
+        height: 250px;
+    }
+
+    .contact-page {
+        height: 250px;
+    }
+
+    h1 {
+        font-size: 24px !important;
+    }
+
+    h2 {
+        font-size: 22px !important;
+    }
+
+}

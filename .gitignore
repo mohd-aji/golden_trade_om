@@ -1,0 +1,16 @@
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+/build/
+/dist/
+
+# Ignore temporary and log files
+*.log
+*.tmp
+temp/
+
+# Ignore sensitive information and environment variables
+.env
+.venv/
